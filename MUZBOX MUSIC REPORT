@@ -1,0 +1,73 @@
+ANALYTICAL REPORT FOR MUZBOX MUSIC STREAMING TRENDS
+
+Project Summary
+
+This dataset, a curated collection of streaming statistics, TikTok virality, and musical attributes, provides a fascinating look into how genres, artists, and songs resonate with listeners globally. From the hard-hitting beats of EchoSync’s trap anthem to the mellow acoustic vibes of Sofia Carter's blues ballad, this dataset showcases the vast diversity in music tastes. Interestingly, while Retro Resonance's reggae hit from 1992 still garners significant daily streams, newer artists like Urban Rhapsody are riding high on TikTok trends, helping their songs stay on charts longer. Pop and electronic tracks exhibit high danceability and energy, correlating with strong TikTok virality and streaming longevity, while more acoustic and emotionally rich genres show varying levels of listener engagement.
+
+Key Skills
+
+Data Analysis: Extracting insights from large datasets to understand streaming trends and consumer behavior.
+Excel: Creating dashboards to visualize and interpret music streaming metrics across platforms.
+Data Visualization: Developing clear and impactful visuals to communicate complex data.
+Streaming Trend Analysis: Identifying patterns in music streaming and artist performance to predict future industry shifts.
+
+Methodology
+
+Data Collection: Compiled extensive streaming data from kaggle.
+Data Visualization: Designed a comprehensive Excel dashboard to present key performance metrics of songs and artists.
+Trend Analysis: Assessed relationships between artist popularity, streaming modes tiktok virality, and danceability.
+Performance Benchmarking: Compared top-streaming tracks, genre and artists and tiktok virality to establish benchmarks for success in the music industry.
+
+Observation
+
+Top Genre By Streams
+
+Blues topped the chart as the most streamed  (1.008E+1) while punk streamed the least.
+
+Top 5 Artist By Streams
+
+Jay Zenith had the highest streams (1.105E+1) while the midnight Howl had the least streams (1.001E+11).
+
+Top 5 Song By Release Year
+
+2025 had the most streamed songs while 2019 had the least streamed songs.
+
+Tiktok Virality By Artist
+
+Jay Zenith had the highest tiktok virality while Luna Nova had the lowest tiktok virality.
+
+Lyrics Sentiment By Genre
+
+Techno drew the highest average lyrics sentiment while indie drew the lowest lyric sentiment.
+
+Weekly Charts Longevity By Genre
+
+Indie streamed the most on the weekly chart while latin streamed the least on the weekly chart.
+
+Danceability VS Energy
+
+Danceability increased at Energy level 4.03E+10 while it was at its lowest at energy level 3.43E+01.
+
+Percentage Of Genre
+
+Indie genre had the highest genre percentage (17.44%) while country had the lowest genre percentage (16.11%).
+
+RECOMMENDATION
+
+1. I recommend that the firm feature top blues artists, classic hits, and new releases. I also recommend that the firm partner with blues enthusiasts to promote the genre. Integrate concerts and interviews with legends, collaborate with major blues artists for exclusive content for the top 10 genre. For punk with the least streams, i recommend that the firm push curated punk collections to new and casual listeners, Invest in up-and-coming punk bands to keep the genre fresh, Partner with punk fan groups, music festivals, and social media influencers to drive engagement, Introduce punk tracks in rock or alternative playlists. Utilize social media platforms to interact with listeners, share updates, and create a community around the music.​
+
+2. I recommend that Jay Zenith be awarded with the most streamed song award and that he should maintain his leading position by partnering with other musicians can introduce Jay Zenith's music to new audiences and diversify the fan base. I also recommend that the midnight howl establish and maintain active profiles on various social media and music streaming platforms.​
+
+3. I recommend that latin be streamed to a different audience to improve its popularity.
+
+4. Artists trying to create a vintage or organic feel should consider incorporating more acoustic elements to appeal to fans of those eras or genres.
+
+5. For sustained success, artists should aim for consistency in releasing quality content, while actively engaging audiences across platforms, especially TikTok.
+
+6. Lyricists and composers might focus on uplifting, relatable content for wider appeal, especially for mainstream radio or streaming platforms.
+
+7. Labels should consider remixing or re-releasing older successful tracks, potentially with contemporary artists, to tap into both nostalgia and current audiences.
+
+CONCLUSION
+
+This dataset reminds us that behind every chart-topping hit is a mix of sentiment, strategy, and serendipity. Whether driven by nostalgic lyrics or viral dance challenges, the success of music today is a harmonious blend of art and analytics.
